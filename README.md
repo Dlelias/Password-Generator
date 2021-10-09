@@ -2,6 +2,8 @@ PASSWORD-GENERATOR
 ## Description
 In this project I created a random password generator. The generator will produce a random password containing an unordered array of numbers, upper and lower case letters, and special charaters. The generated passwords can have a length of 8 to 128 characters. The generator has input validation so the user must meet the required criteria in order to generate the random password desired. 
 
+url:https://dlelias.github.io/Password-Generator/
+
 ## Usage
 The user is first meet with a password generator box in which they are prompted to select the desired password length between 8 and 128. If the user selected a number below 8 or over 128 the user will be alerted to input a number between 8 to 128. 
 
